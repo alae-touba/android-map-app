@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/layout_activity_synchronize_databases.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/layout/activity_synchronize_databases.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/drawable_iconfinder4.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/drawable/iconfinder4.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/layout_activity_insert_into_online_db.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/layout/activity_insert_into_online_db.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/drawable_iconfinder2.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/drawable/iconfinder2.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/layout_insert_location_popup_template.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/layout/insert_location_popup_template.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/layout_activity_see_local_db_content.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/layout/activity_see_local_db_content.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/layout_adapter_item.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/layout/adapter_item.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/drawable_pro_iconn.jpg.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/drawable/pro_iconn.jpg"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/layout_activity_explore_other_locations.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/layout/activity_explore_other_locations.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/drawable_iconfinder3.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/drawable/iconfinder3.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/layout_activity_maps.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/layout_rating_popup_template.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/layout/rating_popup_template.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/drawable_iconfinder1.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/drawable/iconfinder1.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/layout_map_type_popup_template.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/layout/map_type_popup_template.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/alae/work/github-repos/android-map-app/app/build/intermediates/res/merged/debug/layout_toolbar_main.xml.flat",
+        "source": "/home/alae/work/github-repos/android-map-app/app/src/main/res/layout/toolbar_main.xml"
+    }
+]

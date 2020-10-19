@@ -1,0 +1,115 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.googlemapapi"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:5:22-64
+12    <!-- <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:7:5-79
+13-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:7:22-76
+14
+15    <!-- Include required permissions for Google Maps API to run. -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.android.gms:play-services-maps:16.1.0] /home/alae/.gradle/caches/transforms-2/files-2.1/3a8636d6f0dfe2541f2c1a53459e6078/jetified-play-services-maps-16.1.0/AndroidManifest.xml:23:5-79
+16-->[com.google.android.gms:play-services-maps:16.1.0] /home/alae/.gradle/caches/transforms-2/files-2.1/3a8636d6f0dfe2541f2c1a53459e6078/jetified-play-services-maps-16.1.0/AndroidManifest.xml:23:22-76
+17
+18    <uses-feature
+18-->[com.google.android.gms:play-services-maps:16.1.0] /home/alae/.gradle/caches/transforms-2/files-2.1/3a8636d6f0dfe2541f2c1a53459e6078/jetified-play-services-maps-16.1.0/AndroidManifest.xml:26:5-28:35
+19        android:glEsVersion="0x00020000"
+19-->[com.google.android.gms:play-services-maps:16.1.0] /home/alae/.gradle/caches/transforms-2/files-2.1/3a8636d6f0dfe2541f2c1a53459e6078/jetified-play-services-maps-16.1.0/AndroidManifest.xml:27:9-41
+20        android:required="true" />
+20-->[com.google.android.gms:play-services-maps:16.1.0] /home/alae/.gradle/caches/transforms-2/files-2.1/3a8636d6f0dfe2541f2c1a53459e6078/jetified-play-services-maps-16.1.0/AndroidManifest.xml:28:9-32
+21
+22    <application
+22-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:9:5-35:19
+23        android:allowBackup="true"
+23-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:10:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] /home/alae/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@drawable/iconfinder1"
+26-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:11:9-45
+27        android:label="@string/app_name"
+27-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:12:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:13:9-54
+29        android:supportsRtl="true"
+29-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:14:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme"
+31-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:15:9-40
+32        android:usesCleartextTraffic="true" >
+32-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:16:9-44
+33        <activity android:name="com.example.androidMapApp.SeeLocalDbContentActivity" />
+33-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:17:9-97
+33-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:17:19-85
+34        <activity android:name="com.example.androidMapApp.SynchronizeDatabasesActivity" />
+34-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:18:9-91
+34-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:18:19-88
+35        <activity android:name="com.example.androidMapApp.ExploreOtherLocationsActivity" />
+35-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:19:9-92
+35-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:19:19-89
+36        <activity android:name="com.example.androidMapApp.InsertIntoOnlineDbActivity" />
+36-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:20:9-89
+36-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:20:19-86
+37
+38        <meta-data
+38-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:22:9-24:55
+39            android:name="com.google.android.geo.API_KEY"
+39-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:23:13-58
+40            android:value="@string/google_maps_key" />
+40-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:24:13-52
+41
+42        <activity
+42-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:26:9-34:20
+43            android:name="com.example.androidMapApp.MapsActivity"
+43-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:27:13-66
+44            android:label="@string/title_activity_maps" >
+44-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:28:13-56
+45            <intent-filter>
+45-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:29:13-33:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:30:17-69
+46-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:30:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:32:17-77
+48-->/home/alae/work/github-repos/android-map-app/app/src/main/AndroidManifest.xml:32:27-74
+49            </intent-filter>
+50        </activity>
+51        <!-- Needs to be explicitly declared on P+ -->
+52        <uses-library
+52-->[com.google.android.gms:play-services-maps:16.1.0] /home/alae/.gradle/caches/transforms-2/files-2.1/3a8636d6f0dfe2541f2c1a53459e6078/jetified-play-services-maps-16.1.0/AndroidManifest.xml:33:9-35:40
+53            android:name="org.apache.http.legacy"
+53-->[com.google.android.gms:play-services-maps:16.1.0] /home/alae/.gradle/caches/transforms-2/files-2.1/3a8636d6f0dfe2541f2c1a53459e6078/jetified-play-services-maps-16.1.0/AndroidManifest.xml:34:13-50
+54            android:required="false" />
+54-->[com.google.android.gms:play-services-maps:16.1.0] /home/alae/.gradle/caches/transforms-2/files-2.1/3a8636d6f0dfe2541f2c1a53459e6078/jetified-play-services-maps-16.1.0/AndroidManifest.xml:35:13-37
+55
+56        <activity
+56-->[com.google.android.gms:play-services-base:16.0.1] /home/alae/.gradle/caches/transforms-2/files-2.1/7e41aca569aafad1a7ff7d9ed7a7a85e/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+57            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+57-->[com.google.android.gms:play-services-base:16.0.1] /home/alae/.gradle/caches/transforms-2/files-2.1/7e41aca569aafad1a7ff7d9ed7a7a85e/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+58            android:exported="false"
+58-->[com.google.android.gms:play-services-base:16.0.1] /home/alae/.gradle/caches/transforms-2/files-2.1/7e41aca569aafad1a7ff7d9ed7a7a85e/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+59            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+59-->[com.google.android.gms:play-services-base:16.0.1] /home/alae/.gradle/caches/transforms-2/files-2.1/7e41aca569aafad1a7ff7d9ed7a7a85e/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+60
+61        <meta-data
+61-->[com.google.android.gms:play-services-basement:16.0.1] /home/alae/.gradle/caches/transforms-2/files-2.1/bce7b3f4a9a677e96b39559b49bccc6f/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+62            android:name="com.google.android.gms.version"
+62-->[com.google.android.gms:play-services-basement:16.0.1] /home/alae/.gradle/caches/transforms-2/files-2.1/bce7b3f4a9a677e96b39559b49bccc6f/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+63            android:value="@integer/google_play_services_version" />
+63-->[com.google.android.gms:play-services-basement:16.0.1] /home/alae/.gradle/caches/transforms-2/files-2.1/bce7b3f4a9a677e96b39559b49bccc6f/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+64    </application>
+65
+66</manifest>
